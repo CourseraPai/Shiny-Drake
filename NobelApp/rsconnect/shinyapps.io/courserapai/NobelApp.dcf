@@ -1,0 +1,11 @@
+name: NobelApp
+title: NobelApp
+username:
+account: courserapai
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6685202
+bundleId: 6144019
+url: https://courserapai.shinyapps.io/NobelApp/
+when: 1659058543.33251
+lastSyncTime: 1659058543.33256
